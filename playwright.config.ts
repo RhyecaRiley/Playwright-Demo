@@ -8,5 +8,4 @@ export default defineConfig({
     command: 'npm start',
     url: 'http://localhost:3000',
   }
-
 });
